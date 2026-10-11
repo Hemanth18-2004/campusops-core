@@ -172,7 +172,7 @@ Before you begin, ensure you have the following installed:
 
 #### 1. Clone the Repository
 ```bash
-git clone https://github.com/Krish022004/CampusOps.git
+git clone https://github.com/hemanth18-2004/CampusOps.git
 cd campusops-core
 ```
 
@@ -440,8 +440,9 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## 👨‍💻 Author
 
-**Hemant D C**
-- GitHub: [@Krish022004](https://github.com/Hemanth18-2004)
+**Hemanth D C**
+- GitHub: [@hemanth18-2004](https://github.com/hemanth18-2004)
+- Project: [CampusOps](https://github.com/hemanth18-2004/CampusOps)
 
 
 ---
